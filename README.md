@@ -26,6 +26,7 @@
 <li><a href="#Engineering">Engineering</a></li>
 <li><a href="#Film">Film</a></li>
 <li><a href="#General">General</a></li>
+<li><a href="#Geography">Geography</a></li>
 <li><a href="#History">History</a></li>
 <li><a href="#Literature">Literature</a></li>
 <li><a href="#Mathematics">Mathematics</a></li>
@@ -176,8 +177,20 @@
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W">Study Skills</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNCG9Vq7vdvJytS-F-xGi7_">World Mythology</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
+<h2 id="geography"># Geography</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLph3YM7PV2E4Ag032hNmAjeg4-UtZds0i">Class 9 Geography</a> by <a href="https://www.youtube.com/channel/UCWtKeCH3qnbq6GZpDiqgsKg">LearnoHub - Class 9,10</a></li>
+</ul>
 <h1 id="other-languages-1">Other Languages</h1>
 <h2 id="hindi">Hindi</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLph3YM7PV2E6z3Pt1f0ITZs7g6Jc1w6gI" title="Class 10 Science">Class 10 Science</a> by <a href="https://www.youtube.com/channel/UCWtKeCH3qnbq6GZpDiqgsKg">LearnoHub - Class 9,10</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLph3YM7PV2E5qNIEokJnDXZuJXX5OKKT9" title="Class 10 Geography">Class 10 Geography</a> by <a href="https://www.youtube.com/channel/UCWtKeCH3qnbq6GZpDiqgsKg">LearnoHub - Class 9,10</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLph3YM7PV2E4Ag032hNmAjeg4-UtZds0i" title="Class 9 Geography">Class 9 Geography</a> by  <a href="https://www.youtube.com/channel/UCWtKeCH3qnbq6GZpDiqgsKg">LearnoHub - Class 9,10</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLCzaIJYXP5YevqNNEVmYaYeEKpeygU5KH">Class 10 Chemistry</a> by <a href="https://www.youtube.com/channel/UCEg3PHVR0vt3azbs_Qk_6cw">LearnoHub - Class 11, 12</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLCzaIJYXP5YcTsTTgbgCrcV2CYTFonHbE" title="Class 11 Chemistry One-Shot Videos #SabkoSamajhAayega">Class 11 Chemistry One-Shot Videos #SabkoSamajhAayega</a> by  <a href="https://www.youtube.com/channel/UCWtKeCH3qnbq6GZpDiqgsKg">LearnoHub - Class 9,10</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLCzaIJYXP5Yd2SJYlj5_IWEU_7zWJwoN-" title="NEET Physics Series | Revision &amp; MCQs #SabkoSamajhAayega">NEET Physics Series | Revision &amp; MCQs #SabkoSamajhAayega</a> by <a href="https://www.youtube.com/channel/UCWtKeCH3qnbq6GZpDiqgsKg">LearnoHub - Class 9,10</a></li>
+</ul>
 <h2 id="spanish-español">Spanish: Español</h2>
 <h2 id="computer-science-1">Computer Science</h2>
 <ul>
