@@ -13,6 +13,7 @@
 <li>Video recommendations hidden from the watch page (to keep you focused!)</li>
 <li>Started with trusted partners <a href="https://twitter.com/hashtag/YouTubeLearning?src=hashtag_click">#YouTubeLearning</a></li>
 </ul>
+<p><a href="https://www.youtube.com/learning/">Youtube Learning Home</a></p>
 <h3 id="english"><em>English</em></h3>
 <ul>
 <li><a href="#Biology">Biology</a></li>
