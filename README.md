@@ -70,14 +70,14 @@
 <li><a href="https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt">Introduction to SQL (Computer Science)</a> by <a href="https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q">Socratica</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM">The Nature of Code 2</a> by <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a></li>
 </ul>
-<p><a href="#ArtificialIntelligence">Artificial Intelligence </a><br>
-<a href="#CodingBasics">Coding Basics</a><br>
+<p><a href="#Artificial-Intelligence">Artificial Intelligence </a><br>
+<a href="#Coding-Basics">Coding Basics</a><br>
 <a href="#Courses">Courses</a></p>
 <h3 id="artificial-intelligence">Artificial Intelligence</h3>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b">Artificial Intelligence</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
-<h3 id="codingbasics">CodingBasics</h3>
+<h3 id="coding-basics">Coding Basics</h3>
 <blockquote>
 <p>Introduce to and gain experience with key coding concepts</p>
 </blockquote>
