@@ -46,7 +46,12 @@
 <li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW" title="CS50 Lectures 2019">CS50 Lectures 2019</a> by <a href="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA">CS50</a></li>
 </ul>
 <h2 id="mathematics">Mathematics</h2>
-<p><a href="#Calculus">Calculus</a></p>
+<p><a href="#Algebra">Algebra</a><br>
+<a href="#Calculus">Calculus</a></p>
+<h3 id="algebra">Algebra</h3>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6" title="Study Hall: Algebra">Study Hall: Algebra</a> by <a href="https://www.youtube.com/channel/UC027E0kdtyo0h4lLGROg-dA">Arizona State University</a></li>
+</ul>
 <h3 id="calculus">Calculus</h3>
 <blockquote>
 <p>These videos will help you understand Limits, Differentiation and Integration- the important ideas around which calculus is built.</p>
