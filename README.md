@@ -20,7 +20,11 @@
 <li><a href="#Biology">Biology</a></li>
 <li><a href="#Chemistry">Chemistry</a></li>
 <li><a href="#ComputerScience">Computer Science</a></li>
+<li><a href="#Economics">Economics</a></li>
+<li><a href="#Engineering">Engineering</a></li>
 <li><a href="#General">General</a></li>
+<li><a href="#History">History</a></li>
+<li><a href="#Literature">Literature</a></li>
 <li><a href="#Mathematics">Mathematics</a></li>
 <li><a href="#Psychology">Psychology</a></li>
 <li><a href="#Physics">Physics</a></li>
@@ -33,6 +37,7 @@
 <h2 id="biology">Biology</h2>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz" title="Amoeba Sisters Biology Learning Playlist">Amoeba Sisters Biology Learning Playlist</a> by <a href="https://www.youtube.com/channel/UCb2GCoLSBXjmI_Qj1vk-44g">Amoeba Sisters</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8">Anatomy &amp; Physiology</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLi6K9w_UbfFSxHPEDWcXxIxSA6gDR4OeZ">Human Evolution Learning Playlist</a> by <a href="https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA">PBS Eons</a></li>
 </ul>
 <h2 id="chemistry">Chemistry</h2>
@@ -70,6 +75,23 @@
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW" title="CS50 Lectures 2019">CS50 Lectures 2019</a> by <a href="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA">CS50</a></li>
 </ul>
+<h2 id="economics">Economics</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO">Economics</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+</ul>
+<h2 id="engineering">Engineering</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtO4A_tL6DLZRotxEb114cMR">Engineering</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+</ul>
+<h2 id="history">History</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNjasccl-WajpONGX3zoY4M">World History 2</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+</ul>
+<h2 id="literature">Literature</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPlnUoPa11EoTZbWZLsQVMs">Literature 4</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtOv-sO3lOpVm54jhwWAf_jR">Literature 2</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+</ul>
 <h2 id="mathematics">Mathematics</h2>
 <p><a href="#Algebra">Algebra</a><br>
 <a href="#Calculus">Calculus</a></p>
@@ -96,6 +118,11 @@
 </ul>
 <h2 id="general">General</h2>
 <ul>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNamNKW5qlS-nKgA0on7Qze">Business Entrepreneurship</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtONXALkeh5uisZqrAcPKCee">Crash Course Theater and Drama</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG">Games</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNppY8ZHMPDH5TKK2UpU8Ng">History of Science</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtN07XYqqWSKpPrtNDiCHTzU">Navigating Digital Information</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLNrrxHpJhC8mNXjrAL3Ey1Q6iI35cymzl" title="Study Hall: Composition">Study Hall: Composition</a> by <a href="https://www.youtube.com/channel/UC027E0kdtyo0h4lLGROg-dA">Arizona State University</a> and <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
 <h1 id="other-languages-1">Other Languages</h1>
