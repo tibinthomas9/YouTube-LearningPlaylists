@@ -84,6 +84,8 @@
 <ul>
 <li><a href="https://www.youtube.com/watch?v=KFVdHDMcepw&amp;list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or">Think Like A Coder</a> by <a href="https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA">TED-Ed</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA">Code! Programming with p5.js</a> by <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5">CS50’s Web Programming with Python and JavaScript</a> by <a href="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA">CS50</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL0nQ4vmdWaA3GLsZESEkBiIAEvnDEge8D">Everything You Need To Start Programming! 💪😤</a> by <a href="https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg">Jabrils</a></li>
 </ul>
 <h3 id="courses">Courses</h3>
 <blockquote>
@@ -91,6 +93,11 @@
 </blockquote>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW" title="CS50 Lectures 2019">CS50 Lectures 2019</a> by <a href="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA">CS50</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T380CIOjHCjIAugO3ryncp6IW" title="CS50 for Lawyers 2019">CS50 for Lawyers 2019</a> by  <a href="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA">CS50</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH" title="CS50 Lectures 2018">CS50 Lectures 2018</a> by <a href="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA">CS50</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR" title="CS50's Mobile App Development with React Native 2018">CS50’s Mobile App Development with React Native 2018</a> by  <a href="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA">CS50</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh" title="CS50's Introduction to Game Development 2018">CS50’s Introduction to Game Development 2018</a> by <a href="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA">CS50</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p" title="CS50's Understanding Technology 2017">CS50’s Understanding Technology 2017</a> by <a href="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA">CS50</a></li>
 </ul>
 <h2 id="economics">Economics</h2>
 <ul>
@@ -170,6 +177,11 @@
 </ul>
 <h1 id="other-languages-1">Other Languages</h1>
 <h2 id="hindi">Hindi</h2>
+<h2 id="spanish-español">Spanish: Español</h2>
+<h2 id="computer-science-1">Computer Science</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T382v3ivzfqV_XtNMhREadjAr">CS50 en Español 2017</a> by <a href="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA">CS50</a></li>
+</ul>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
