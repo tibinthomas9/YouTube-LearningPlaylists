@@ -69,6 +69,7 @@
 <li><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV">Git and GitHub for Poets</a> by <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt">Introduction to SQL (Computer Science)</a> by <a href="https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q">Socratica</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM">The Nature of Code 2</a> by <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X">Working with Data and APIs in JavaScript</a> by <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a></li>
 </ul>
 <p><a href="#Artificial-Intelligence">Artificial Intelligence </a><br>
 <a href="#Coding-Basics">Coding Basics</a><br>
