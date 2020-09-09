@@ -18,6 +18,7 @@
 <li><a href="#Biology">Biology</a></li>
 <li><a href="#ComputerScience">Computer Science</a></li>
 <li><a href="#Mathematics">Mathematics</a></li>
+<li><a href="#Psychology">Psychology</a></li>
 </ul>
 <h3 id="other-languages"><em>Other Languages</em></h3>
 <ul>
@@ -25,13 +26,24 @@
 </ul>
 <h1 id="playlists">Playlists</h1>
 <h2 id="computer-science">Computer Science</h2>
-<p><a href="#CodingBasics">Coding Basics</a></p>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo" title="Computer Science">Computer Science</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+</ul>
+<p><a href="#CodingBasics">Coding Basics</a><br>
+<a href="#Courses">Courses</a></p>
 <h3 id="codingbasics">CodingBasics</h3>
 <blockquote>
 <p>Introduce to and gain experience with key coding concepts</p>
 </blockquote>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=KFVdHDMcepw&amp;list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or">Think Like A Coder</a> by <a href="https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA">TED-Ed</a></li>
+</ul>
+<h3 id="courses">Courses</h3>
+<blockquote>
+<p>Complete courses</p>
+</blockquote>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW" title="CS50 Lectures 2019">CS50 Lectures 2019</a> by <a href="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA">CS50</a></li>
 </ul>
 <h2 id="mathematics">Mathematics</h2>
 <p><a href="#Calculus">Calculus</a></p>
@@ -42,12 +54,11 @@
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLmdFyQYShrjd4Qn42rcBeFvF6Qs-b6e-L" title="Calculus - Basics">Calculus - Basics</a> by <a href="https://www.youtube.com/channel/UCiTjCIT_9EXV1Wp1cY0zaUA">Don’t Memorise</a></li>
 </ul>
+<h2 id="psychology">Psychology</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=vo4pMVb0R6M&amp;list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6">Psychology</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+</ul>
 <h2 id="biology">Biology</h2>
-<p><a href="#Basics">Basics</a></p>
-<h3 id="basics">Basics</h3>
-<blockquote>
-<p>Playlists provides a foundation for more exploring</p>
-</blockquote>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz" title="Amoeba Sisters Biology Learning Playlist">Amoeba Sisters Biology Learning Playlist</a> by <a href="https://www.youtube.com/channel/UCb2GCoLSBXjmI_Qj1vk-44g">Amoeba Sisters</a></li>
 </ul>
