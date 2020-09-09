@@ -5,7 +5,7 @@
 
 <h1 id="youtube-learningplaylists">YouTube-LearningPlaylists</h1>
 <blockquote>
-<p>A collaborative list of new “learning playlists” introduced by YouTube. Feel free to contribute!</p>
+<p>A collaborative list of new “learning playlist” introduced by YouTube. Feel free to contribute!</p>
 </blockquote>
 <ul>
 <li>A more structured way to learn on YouTube!</li>
@@ -14,9 +14,11 @@
 <li>Started with trusted partners <a href="https://twitter.com/hashtag/YouTubeLearning?src=hashtag_click">#YouTubeLearning</a></li>
 </ul>
 <p><a href="https://www.youtube.com/learning/">Youtube Learning Home</a></p>
+<p>* <em>Not labelled by Youtube as “learning playlist”</em></p>
 <h3 id="english"><em>English</em></h3>
 <ul>
 <li><a href="#Biology">Biology</a></li>
+<li><a href="#Chemistry">Chemistry</a></li>
 <li><a href="#ComputerScience">Computer Science</a></li>
 <li><a href="#General">General</a></li>
 <li><a href="#Mathematics">Mathematics</a></li>
@@ -32,6 +34,11 @@
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz" title="Amoeba Sisters Biology Learning Playlist">Amoeba Sisters Biology Learning Playlist</a> by <a href="https://www.youtube.com/channel/UCb2GCoLSBXjmI_Qj1vk-44g">Amoeba Sisters</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLi6K9w_UbfFSxHPEDWcXxIxSA6gDR4OeZ">Human Evolution Learning Playlist</a> by <a href="https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA">PBS Eons</a></li>
+</ul>
+<h2 id="chemistry">Chemistry</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr">Chemistry</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLmdFyQYShrjeIzbQ3bnF9c24rmYHUEw-v">Chemistry</a> by <a href="https://www.youtube.com/channel/UCiTjCIT_9EXV1Wp1cY0zaUA">Don’t Memorise</a> *</li>
 </ul>
 <h2 id="computer-science">Computer Science</h2>
 <ul>
