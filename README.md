@@ -21,7 +21,7 @@
 <li><a href="#Biology">Biology</a></li>
 <li><a href="#Business">Business</a></li>
 <li><a href="#Chemistry">Chemistry</a></li>
-<li><a href="#ComputerScience">Computer Science</a></li>
+<li><a href="#Computer-Science">Computer Science</a></li>
 <li><a href="#Economics">Economics</a></li>
 <li><a href="#Engineering">Engineering</a></li>
 <li><a href="#Film">Film</a></li>
