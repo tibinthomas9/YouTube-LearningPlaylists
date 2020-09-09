@@ -8,8 +8,11 @@
 <p>A collaborative list of new “learning playlists” introduced by YouTube. Feel free to contribute!</p>
 </blockquote>
 <ul>
-<li>
-<p><a href="#">YouTube-Learning Playlists</a></p>
+<li>A more structured way to learn on YouTube!</li>
+<li>Playlists organized from basic to more advanced</li>
+<li>Video recommendations hidden from the watch page (to keep you focused!)</li>
+<li>Started with trusted partners <a href="https://twitter.com/hashtag/YouTubeLearning?src=hashtag_click">#YouTubeLearning</a></li>
+</ul>
 <h3 id="english">English</h3>
 <ul>
 <li><a href="#coding">Coding</a></li>
@@ -17,8 +20,6 @@
 <h3 id="other-languages"><em>Other Languages</em></h3>
 <ul>
 <li><a href="#hindi">Hindi</a></li>
-</ul>
-</li>
 </ul>
 <h1 id="playlists">Playlists</h1>
 <h3 id="coding">Coding</h3>
