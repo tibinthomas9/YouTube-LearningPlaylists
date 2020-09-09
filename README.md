@@ -17,6 +17,7 @@
 <p>* <em>Not labelled by Youtube as “learning playlist”</em></p>
 <h3 id="english"><em>English</em></h3>
 <ul>
+<li><a href="#Astronomy">Astronomy</a></li>
 <li><a href="#Biology">Biology</a></li>
 <li><a href="#Business">Business</a></li>
 <li><a href="#Chemistry">Chemistry</a></li>
@@ -38,6 +39,11 @@
 <li><a href="#hindi">Hindi</a></li>
 </ul>
 <h1 id="playlists">Playlists</h1>
+<h2 id="astronomy">Astronomy</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLsPUh22kYmNBl4h0i4mI5zDflExXJMo_x">Black Holes</a> by <a href="https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g">PBS Space Time</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLsPUh22kYmNAmjsHke4pd8S9z6m_hVRur">Curved Spacetime in General Relativity</a> by <a href="https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g">PBS Space Time</a></li>
+</ul>
 <h2 id="biology">Biology</h2>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz" title="Amoeba Sisters Biology Learning Playlist">Amoeba Sisters Biology Learning Playlist</a> by <a href="https://www.youtube.com/channel/UCb2GCoLSBXjmI_Qj1vk-44g">Amoeba Sisters</a></li>
@@ -89,6 +95,10 @@
 <h2 id="economics">Economics</h2>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO">Economics</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+</ul>
+<h2 id="electronics">Electronics</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLuUdFsbOK_8pWzW7KJjbiJ8Ow0cdHlApV">Internet &amp; Telecommunication Technology</a> by <a href="https://www.youtube.com/channel/UCqZQJ4600a9wIfMPbYc60OQ">Learn Engineering</a></li>
 </ul>
 <h2 id="engineering">Engineering</h2>
 <ul>
