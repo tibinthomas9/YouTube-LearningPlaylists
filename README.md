@@ -17,6 +17,7 @@
 <ul>
 <li><a href="#Biology">Biology</a></li>
 <li><a href="#ComputerScience">Computer Science</a></li>
+<li><a href="#General">General</a></li>
 <li><a href="#Mathematics">Mathematics</a></li>
 <li><a href="#Psychology">Psychology</a></li>
 </ul>
@@ -25,6 +26,11 @@
 <li><a href="#hindi">Hindi</a></li>
 </ul>
 <h1 id="playlists">Playlists</h1>
+<h2 id="biology">Biology</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz" title="Amoeba Sisters Biology Learning Playlist">Amoeba Sisters Biology Learning Playlist</a> by <a href="https://www.youtube.com/channel/UCb2GCoLSBXjmI_Qj1vk-44g">Amoeba Sisters</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLi6K9w_UbfFSxHPEDWcXxIxSA6gDR4OeZ">Human Evolution Learning Playlist</a> by <a href="https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA">PBS Eons</a></li>
+</ul>
 <h2 id="computer-science">Computer Science</h2>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo" title="Computer Science">Computer Science</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
@@ -63,9 +69,9 @@
 <ul>
 <li><a href="https://www.youtube.com/watch?v=vo4pMVb0R6M&amp;list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6">Psychology</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
-<h2 id="biology">Biology</h2>
+<h2 id="general">General</h2>
 <ul>
-<li><a href="https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz" title="Amoeba Sisters Biology Learning Playlist">Amoeba Sisters Biology Learning Playlist</a> by <a href="https://www.youtube.com/channel/UCb2GCoLSBXjmI_Qj1vk-44g">Amoeba Sisters</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLNrrxHpJhC8mNXjrAL3Ey1Q6iI35cymzl" title="Study Hall: Composition">Study Hall: Composition</a> by <a href="https://www.youtube.com/channel/UC027E0kdtyo0h4lLGROg-dA">Arizona State University</a> and <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
 <h1 id="other-languages-1">Other Languages</h1>
 <h2 id="hindi">Hindi</h2>
