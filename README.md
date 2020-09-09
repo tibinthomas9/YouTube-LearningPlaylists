@@ -78,6 +78,7 @@
 <h3 id="artificial-intelligence">Artificial Intelligence</h3>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b">Artificial Intelligence</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLzH6n4zXuckpfMu_4Ff8E7Z1behQks5ba">Data Analysis with Dr Mike Pound</a> by <a href="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA">Computerphile</a></li>
 </ul>
 <h3 id="coding-basics">Coding Basics</h3>
 <blockquote>
