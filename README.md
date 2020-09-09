@@ -23,10 +23,12 @@
 <li><a href="#ComputerScience">Computer Science</a></li>
 <li><a href="#Economics">Economics</a></li>
 <li><a href="#Engineering">Engineering</a></li>
+<li><a href="#Film">Film</a></li>
 <li><a href="#General">General</a></li>
 <li><a href="#History">History</a></li>
 <li><a href="#Literature">Literature</a></li>
 <li><a href="#Mathematics">Mathematics</a></li>
+<li><a href="#Media">Media</a></li>
 <li><a href="#Philosophy">Philosophy</a></li>
 <li><a href="#Physics">Physics</a></li>
 <li><a href="#Psychology">Psychology</a></li>
@@ -90,18 +92,25 @@
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtO4A_tL6DLZRotxEb114cMR">Engineering</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
+<h2 id="film">Film</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtOCicti5dwLAKuesMQVi7hw">Film Criticism</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPnisE6CrrLO00Qoe67TDpx">Film Production</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+</ul>
 <h2 id="history">History</h2>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNjasccl-WajpONGX3zoY4M">World History 2</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
 <h2 id="literature">Literature</h2>
 <ul>
-<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPlnUoPa11EoTZbWZLsQVMs">Literature 4</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtOv-sO3lOpVm54jhwWAf_jR">Literature 2</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNEWbqDPdM8FrNHuyVxPQl_">Literature 3</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPlnUoPa11EoTZbWZLsQVMs">Literature 4</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
 <h2 id="mathematics">Mathematics</h2>
 <p><a href="#Algebra">Algebra</a><br>
-<a href="#Calculus">Calculus</a></p>
+<a href="#Calculus">Calculus</a><br>
+<a href="#Statistics">Statistics</a></p>
 <h3 id="algebra">Algebra</h3>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6" title="Study Hall: Algebra">Study Hall: Algebra</a> by <a href="https://www.youtube.com/channel/UC027E0kdtyo0h4lLGROg-dA">Arizona State University</a></li>
@@ -112,6 +121,14 @@
 </blockquote>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLmdFyQYShrjd4Qn42rcBeFvF6Qs-b6e-L" title="Calculus - Basics">Calculus - Basics</a> by <a href="https://www.youtube.com/channel/UCiTjCIT_9EXV1Wp1cY0zaUA">Don’t Memorise</a></li>
+</ul>
+<h3 id="statistics">Statistics</h3>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr">Statistics</a></li>
+</ul>
+<h2 id="media">Media</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY">Media Literacy</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
 <h2 id="philosophy">Philosophy</h2>
 <ul>
@@ -134,6 +151,8 @@
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNppY8ZHMPDH5TKK2UpU8Ng">History of Science</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtN07XYqqWSKpPrtNDiCHTzU">Navigating Digital Information</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLNrrxHpJhC8mNXjrAL3Ey1Q6iI35cymzl" title="Study Hall: Composition">Study Hall: Composition</a> by <a href="https://www.youtube.com/channel/UC027E0kdtyo0h4lLGROg-dA">Arizona State University</a> and <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W">Study Skills</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNCG9Vq7vdvJytS-F-xGi7_">World Mythology</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
 <h1 id="other-languages-1">Other Languages</h1>
 <h2 id="hindi">Hindi</h2>
