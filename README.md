@@ -39,11 +39,13 @@
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr">Chemistry</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLmdFyQYShrjeIzbQ3bnF9c24rmYHUEw-v">Chemistry</a> by <a href="https://www.youtube.com/channel/UCiTjCIT_9EXV1Wp1cY0zaUA">Don’t Memorise</a> *</li>
+<li><a href="https://www.youtube.com/playlist?list=PLCzaIJYXP5YevqNNEVmYaYeEKpeygU5KH">Class 10 Chemistry</a> by <a href="https://www.youtube.com/channel/UCEg3PHVR0vt3azbs_Qk_6cw">LearnoHub - Class 11, 12</a></li>
 </ul>
 <h2 id="computer-science">Computer Science</h2>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo" title="Computer Science">Computer Science</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y">Beginners Guide to Machine Learning in JavaScript</a> by <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM">The Nature of Code 2</a> by <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a></li>
 </ul>
 <p><a href="#ArtificialIntelligence">Artificial Intelligence </a><br>
 <a href="#CodingBasics">Coding Basics</a><br>
@@ -88,6 +90,7 @@
 <h2 id="physics">Physics</h2>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV">Physics</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1">Quantum Mechanics</a> by <a href="https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g">PBS Space Time</a></li>
 </ul>
 <h2 id="general">General</h2>
 <ul>
