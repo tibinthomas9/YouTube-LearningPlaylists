@@ -18,6 +18,7 @@
 <h3 id="english"><em>English</em></h3>
 <ul>
 <li><a href="#Biology">Biology</a></li>
+<li><a href="#Business">Business</a></li>
 <li><a href="#Chemistry">Chemistry</a></li>
 <li><a href="#ComputerScience">Computer Science</a></li>
 <li><a href="#Economics">Economics</a></li>
@@ -26,8 +27,9 @@
 <li><a href="#History">History</a></li>
 <li><a href="#Literature">Literature</a></li>
 <li><a href="#Mathematics">Mathematics</a></li>
-<li><a href="#Psychology">Psychology</a></li>
+<li><a href="#Philosophy">Philosophy</a></li>
 <li><a href="#Physics">Physics</a></li>
+<li><a href="#Psychology">Psychology</a></li>
 </ul>
 <h3 id="other-languages"><em>Other Languages</em></h3>
 <ul>
@@ -39,6 +41,11 @@
 <li><a href="https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz" title="Amoeba Sisters Biology Learning Playlist">Amoeba Sisters Biology Learning Playlist</a> by <a href="https://www.youtube.com/channel/UCb2GCoLSBXjmI_Qj1vk-44g">Amoeba Sisters</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8">Anatomy &amp; Physiology</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLi6K9w_UbfFSxHPEDWcXxIxSA6gDR4OeZ">Human Evolution Learning Playlist</a> by <a href="https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA">PBS Eons</a></li>
+</ul>
+<h2 id="business">Business</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNamNKW5qlS-nKgA0on7Qze">Business Entrepreneurship</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtMBsfP-lP28IFvfkISqJofM">Business Soft Skills</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
 <h2 id="chemistry">Chemistry</h2>
 <ul>
@@ -106,9 +113,9 @@
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLmdFyQYShrjd4Qn42rcBeFvF6Qs-b6e-L" title="Calculus - Basics">Calculus - Basics</a> by <a href="https://www.youtube.com/channel/UCiTjCIT_9EXV1Wp1cY0zaUA">Don’t Memorise</a></li>
 </ul>
-<h2 id="psychology">Psychology</h2>
+<h2 id="philosophy">Philosophy</h2>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=vo4pMVb0R6M&amp;list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6">Psychology</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR">Philosophy</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
 <h2 id="physics">Physics</h2>
 <ul>
@@ -116,9 +123,12 @@
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV">Physics</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1">Quantum Mechanics</a> by <a href="https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g">PBS Space Time</a></li>
 </ul>
+<h2 id="psychology">Psychology</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=vo4pMVb0R6M&amp;list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6">Psychology</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+</ul>
 <h2 id="general">General</h2>
 <ul>
-<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNamNKW5qlS-nKgA0on7Qze">Business Entrepreneurship</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtONXALkeh5uisZqrAcPKCee">Crash Course Theater and Drama</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG">Games</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNppY8ZHMPDH5TKK2UpU8Ng">History of Science</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
