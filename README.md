@@ -42,6 +42,7 @@
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLwL0Myd7Dk1F0iQPGrjehze3eDpco1eVz" title="Amoeba Sisters Biology Learning Playlist">Amoeba Sisters Biology Learning Playlist</a> by <a href="https://www.youtube.com/channel/UCb2GCoLSBXjmI_Qj1vk-44g">Amoeba Sisters</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8">Anatomy &amp; Physiology</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLmdFyQYShrjfLAV0_t4gXHuWyWXzTI2QB">Genetics - Basics</a> by <a href="https://www.youtube.com/channel/UCiTjCIT_9EXV1Wp1cY0zaUA">Don’t Memorise</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLi6K9w_UbfFSxHPEDWcXxIxSA6gDR4OeZ">Human Evolution Learning Playlist</a> by <a href="https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA">PBS Eons</a></li>
 </ul>
 <h2 id="business">Business</h2>
