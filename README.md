@@ -20,6 +20,7 @@
 <li><a href="#General">General</a></li>
 <li><a href="#Mathematics">Mathematics</a></li>
 <li><a href="#Psychology">Psychology</a></li>
+<li><a href="#Physics">Physics</a></li>
 </ul>
 <h3 id="other-languages"><em>Other Languages</em></h3>
 <ul>
@@ -34,15 +35,22 @@
 <h2 id="computer-science">Computer Science</h2>
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo" title="Computer Science">Computer Science</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y">Beginners Guide to Machine Learning in JavaScript</a> by <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a></li>
 </ul>
-<p><a href="#CodingBasics">Coding Basics</a><br>
+<p><a href="#ArtificialIntelligence">Artificial Intelligence </a><br>
+<a href="#CodingBasics">Coding Basics</a><br>
 <a href="#Courses">Courses</a></p>
+<h3 id="artificial-intelligence">Artificial Intelligence</h3>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b">Artificial Intelligence</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+</ul>
 <h3 id="codingbasics">CodingBasics</h3>
 <blockquote>
 <p>Introduce to and gain experience with key coding concepts</p>
 </blockquote>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=KFVdHDMcepw&amp;list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or">Think Like A Coder</a> by <a href="https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA">TED-Ed</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA">Code! Programming with p5.js</a> by <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a></li>
 </ul>
 <h3 id="courses">Courses</h3>
 <blockquote>
@@ -68,6 +76,10 @@
 <h2 id="psychology">Psychology</h2>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=vo4pMVb0R6M&amp;list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6">Psychology</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
+</ul>
+<h2 id="physics">Physics</h2>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV">Physics</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
 <h2 id="general">General</h2>
 <ul>
