@@ -124,7 +124,7 @@
 </ul>
 <h3 id="statistics">Statistics</h3>
 <ul>
-<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr">Statistics</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr">Statistics</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 </ul>
 <h2 id="media">Media</h2>
 <ul>
