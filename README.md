@@ -45,6 +45,7 @@
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo" title="Computer Science">Computer Science</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y">Beginners Guide to Machine Learning in JavaScript</a> by <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV">Git and GitHub for Poets</a> by <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM">The Nature of Code 2</a> by <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw">The Coding Train</a></li>
 </ul>
 <p><a href="#ArtificialIntelligence">Artificial Intelligence </a><br>
@@ -89,6 +90,7 @@
 </ul>
 <h2 id="physics">Physics</h2>
 <ul>
+<li><a href="https://www.youtube.com/playlist?list=PLGy2yUUUdf3U_OI9Jaz7C_mAivH-Yx5R8">Experience Science By Design - Physics Class 8th CBSE</a> by  <a href="https://www.youtube.com/channel/UCBr7J1jRnu4m3LcyyUH679w">d’Art of Science</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV">Physics</a> by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1">Quantum Mechanics</a> by <a href="https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g">PBS Space Time</a></li>
 </ul>
