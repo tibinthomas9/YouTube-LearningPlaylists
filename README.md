@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="youtube-learningplaylists">YouTube-LearningPlaylists</h1>
+<h1 id="youtube-learningplaylists">YouTube: Learning Playlists</h1>
 <blockquote>
 <p>A collaborative list of new “learning playlist” introduced by YouTube. Feel free to contribute!</p>
 </blockquote>
